@@ -3,3 +3,4 @@
 <p align="center"><img src="/readd/2.gif?invert_in_darkmode&sanitize=true" align=middle width=386.2915617pt height=44.90601885pt/></p>
 
 где <img src="/readd/3.gif?invert_in_darkmode&sanitize=true" align=middle width=30.848120499999986pt height=20.76175259999998pt/> выбирается, в моем случае дробным шагом, т.е. длина шага в процессе спуска делится на некое число;
+
