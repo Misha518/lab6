@@ -8,6 +8,6 @@
 
 В этом варианте градиентного метода величина шага <img src="/readd/3.gif?invert_in_darkmode&sanitize=true" align=middle width=30.848120499999986pt height=20.76175259999998pt/> на каждой итерации выбирается из условия выполнения неравенства
 
-<p align="center"><img src="/readd/88.gif?invert_in_darkmode&sanitize=true" align=middle width=386.2915617pt height=44.90601885pt/></p>
+<p align="center"><img src="/readd/8.gif?invert_in_darkmode&sanitize=true" align=middle width=386.2915617pt height=44.90601885pt/></p>
 
 
