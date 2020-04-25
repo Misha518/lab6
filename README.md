@@ -10,4 +10,6 @@
 
 <p align="center"><img src="/readd/8.gif?invert_in_darkmode&sanitize=true" align=middle width=886.2915617pt height=60.90601885pt/></p>
 
+где <img src="/readd/9.gif?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/>
+- некоторая заранее выбранная константа.
 
