@@ -12,6 +12,6 @@
 
 где <img src="/readd/9.gif?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/> - некоторая заранее выбранная константа.
 
-Процедуру нахождения такого <img src="/readd/3.gif?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/> обычно оформляют так. Выбирается число <img src="/readd/11.gif?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/> и некоторый начальный шаг <img src="/readd/14.gif?invert_in_darkmode&sanitize=true" align=middle width=80.848120499999986pt height=45.76175259999998pt/>. Теперь для каждого k полагают <img src="/readd/13.gif?invert_in_darkmode&sanitize=true" align=middle width=20.848120499999986pt height=16.76175259999998pt/>
+Процедуру нахождения такого <img src="/readd/3.gif?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/> обычно оформляют так. Выбирается число <img src="/readd/11.gif?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/> и некоторый начальный шаг <img src="/readd/12.gif?invert_in_darkmode&sanitize=true" align=middle width=80.848120499999986pt height=45.76175259999998pt/>. Теперь для каждого k полагают <img src="/readd/13.gif?invert_in_darkmode&sanitize=true" align=middle width=20.848120499999986pt height=16.76175259999998pt/>
 
 
