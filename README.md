@@ -4,7 +4,7 @@
 Букеев Михаил Дмитриевич
 
 ## Вариант № 12
-Найти точку максимума функции <p <img src="http://www.sciweavers.org/tex2img.php?eq=f%28x_%7B1%7D%20%2C%20x_%7B2%7D%20%29%3D-3x_%7B1%7D%5E%7B2%7D%20-42%20x_%7B1%7D%20-2%20x_%7B2%7D%5E%7B2%7D-12%20x_%7B2%7D-158%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="f(x_{1} , x_{2} )=-3x_{1}^{2} -42 x_{1} -2 x_{2}^{2}-12 x_{2}-158  " width="367" height="25" /> </p> градиентным методом с дроблением шага.
+Найти точку максимума функции <p align="center"><img src="/readd/Tex2Img_1588007010.jpg?invert_in_darkmode&sanitize=true" align=middle width=386.2915617pt height=44.90601885pt/></p> градиентным методом с дроблением шага.
 
 ## Теоретическая часть
 Основная идея метода заключается в том, чтобы осуществлять оптимизацию в направлении наискорейшего спуска, а это направление задаётся антиградиентом <img src="/readd/Tex2Img_1588007010.jpg?invert_in_darkmode&sanitize=true" align=middle width=40.848120499999986pt height=25.76175259999998pt/>:
