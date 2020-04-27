@@ -37,7 +37,7 @@ int main()
       {
          L = L * 0.5;
       }
-      fout<<nx<<" "<<ny<<endl;
+      fout<<x<<" "<<y<<endl;
    }
    fout.close();
    cout <<"max(x;y)=("<< x << ";"  << y <<")"<<endl;
