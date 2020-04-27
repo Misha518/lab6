@@ -38,6 +38,26 @@ double gradY(double x, double y)
 
 Используются цикл для нахождения максимума и программа выводит координаты максимума заданной функции.
 
+while(L > 0.005)
+   {
+      double gx = gradX(x, y);
+      double gy = gradY(x, y);
+      double nx = x + L*gx;
+      double ny = y + L*gy;
+      double nf = f(nx, ny);
+      if( nf >= (fv + 0.5*L*(gx*gx + gy*gy)) )
+      {
+         x = nx;
+         y = ny;
+         fv = nf;
+      }
+      else
+      {
+         L = L * 0.5;
+      }
+      fout<<x<<" "<<y<<endl;
+   }
+
 
 ### Результаты
 В результате работы программы у функции <p align="center"><img src="/readd/Tex2Img_1588007010.jpg?invert_in_darkmode&sanitize=true" align=middle width=250.2915617pt height=45.90601885pt/></p> был найден экстремум в точке (-7;-3) (начальная точка (1;8)) за 38 итераций методом с точностью 0.00001. Ниже приведен рисунок.
