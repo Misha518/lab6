@@ -40,7 +40,7 @@ double gradY(double x, double y)
 
 
 ### Результаты
-В результате работы программы у функции <p align="center"><img src="/readd/Tex2Img_1588007010.jpg?invert_in_darkmode&sanitize=true" align=middle width=100.2915617pt height=22.90601885pt/></p> был найден экстремум в точке (-7;-3) (начальная точка (1;8)) за 38 итераций методом с точностью 0.00001. Ниже приведен рисунок.
+В результате работы программы у функции <p align="center"><img src="/readd/Tex2Img_1588007010.jpg?invert_in_darkmode&sanitize=true" align=middle width=250.2915617pt height=45.90601885pt/></p> был найден экстремум в точке (-7;-3) (начальная точка (1;8)) за 38 итераций методом с точностью 0.00001. Ниже приведен рисунок.
 
 
 
