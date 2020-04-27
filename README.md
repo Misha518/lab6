@@ -79,7 +79,7 @@ while(L > 0.005)
 В результате работы программы у функции <p align="center"><img src="/readd/Tex2Img_1588007010.jpg?invert_in_darkmode&sanitize=true" align=middle width=250.2915617pt height=45.90601885pt/></p> был найден экстремум в точке (-7;-3) (начальная точка (1;8)) за 38 итераций градиентным методом с дроблением шага с точностью 1e-5 . Ниже приведен рисунок.
 
 
-<p align="center"><img src="/readd/Figure.png?invert_in_darkmode&sanitize=true" align=middle width=886.2915617pt height=100.90601885pt/></p>
+<p align="center"><img src="/readd/Figure.png?invert_in_darkmode&sanitize=true" align=middle width=886.2915617pt height=500.90601885pt/></p>
 
 
 
