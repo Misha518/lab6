@@ -39,23 +39,39 @@ double gradY(double x, double y)
 Используются цикл для нахождения максимума и программа выводит координаты максимума заданной функции.
 
 while(L > 0.005)
-   {
+  
+  {
+  
       double gx = gradX(x, y);
+      
       double gy = gradY(x, y);
+      
       double nx = x + L*gx;
+      
       double ny = y + L*gy;
+      
       double nf = f(nx, ny);
+      
       if( nf >= (fv + 0.5*L*(gx*gx + gy*gy)) )
+      
       {
+      
          x = nx;
+         
          y = ny;
+         
          fv = nf;
+         
       }
+      
       else
+      
       {
+      
          L = L * 0.5;
+         
       }
-      fout<<x<<" "<<y<<endl;
+
    }
 
 
