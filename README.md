@@ -25,10 +25,15 @@
 
 ## Практическая часть
 В программе используются 3 функции 
+
 первая основая функция из условия 
+
 double f(double x, double y)
+
 вторая и третья это производные по каждой переменной
+
 double gradX(double x, double y)
+
 double gradY(double x, double y)
 
 
